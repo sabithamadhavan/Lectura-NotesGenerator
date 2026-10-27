@@ -93,6 +93,6 @@ python APP.py
 
 
 ## **Contact**
-For any queries, reach out rosheniramesh@gmail.com
+For any queries, reach out sabithamadhavan539@gmail.com
 
 
